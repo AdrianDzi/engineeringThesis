@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Temperature Application Dziobiak</string>
+    <string name="x_value">X-Value</string>
+    <string name="y_value">Y-Value</string>
+    <string name="insert">insert</string>
+    <string name="emptyString"></string>
+    <string name="aboutApp">some text to show in about layout activity</string>
+    <string name="aboutConnect">some information about connection</string>
+    <string name="aboutAuthor"> some information about app author</string>
+</resources>
